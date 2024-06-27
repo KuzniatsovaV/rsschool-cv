@@ -15,7 +15,7 @@
 
 ---
 
-### BRIEFLY ABOUT MYSELF
+## BRIEFLY ABOUT MYSELF
 
 I am Vera Kuzniatsova, a UX/UI design enthusiast and Web developer at the start of my career with a complex medical background and with passion for the latest solutions and interactive design. I focus on making digital experiences more enjoyable and accessible.
 
@@ -33,9 +33,8 @@ I create websites using Tilda, HTML and CSS, combining marketing, design and dev
 * Web Development: HTML, CSS, Tilda
 * Tools: Git, Slack
 * Technical support for webinars: Bizon365, Zoom, YouTube, OBS Studio, Preparation of autowebinars
-* GetCourse - Preparing mailings for invitations and reminders
-* Learning platforms - Organization of online courses in Telegram, VKontakte, GetCourse
-* Launching mailing lists via email and instant messengers 
+* GetCourse: Preparing mailings for invitations and reminders
+* Learning platforms: Organization of online courses in Telegram, VKontakte, GetCourse
 * Programme for electronic textbook creation: SunRav Book Office
 * Proficiency in using the remote work applications: Zoom, Google Meet, etc
 
@@ -43,7 +42,7 @@ I create websites using Tilda, HTML and CSS, combining marketing, design and dev
 ## EDUCATION
 * 1994 - 2000, Grodno State Medical University - Specialty: General Medicine
 * 2000 - 2003, PhD Course, Histology, Cytology and Embryology Department, Grodno State Medical University
-* 2004,  Doctor of Philosophy Degree in Biology is awarded (PhD, Biology)
+* 2004  Doctor of Philosophy Degree in Biology is awarded (PhD, Biology)
 * 2024 Maria Lebedeva’s online school “Administration of Online Schools”
 * 2024 Olga Chernova’s online school of UI/UX design ITlogia 
 
@@ -65,8 +64,8 @@ Author of 52 scientific, educational and methodological publications, of which: 
 
 ## MAIN PUBLICATIONS 
 
-1. Zimatkin, S.M., Fedina, E.M., Kuznetsova, V.B. Histaminergic Neurons in the Rat Brain after Acute Exposure to Alcohol // Neuroscience and Behavioral Physiology. 2013. Vol. 43, № 6. P. 691-696.
-2. Zimatkin, S.M., Kuznetsova, V.B., Strik, O.N. Spatial organization and morphometric characteristics of histaminergic neurons in the rat brain // Neuroscience and Behavioral Physiology. 2006. Vol. 36, № 5. P. 467-471.
+1. Zimatkin, S.M., Fedina, E.M., Kuznetsova, V.B. Histaminergic Neurons in the Rat Brain after Acute Exposure to Alcohol // Neuroscience and Behavioral Physiology. 2013. Vol. 43, T. 6. P. 691-696.
+2. Zimatkin, S.M., Kuznetsova, V.B., Strik, O.N. Spatial organization and morphometric characteristics of histaminergic neurons in the rat brain // Neuroscience and Behavioral Physiology. 2006. Vol. 36, T. 5. P. 467-471.
 
 ## AWARDS 
 
@@ -82,7 +81,7 @@ Laureate of the Elsevier International Prize - Scopus Award Belarus 2013 in the 
 - Initiative
 - Versatile
 
-### CODE EXAMPLE
+## CODE EXAMPLE
 
 ```javascript
 function multiply(a, b){
